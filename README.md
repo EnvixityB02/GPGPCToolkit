@@ -16,11 +16,18 @@
 </div>
 <br/>
 
-## Release Date: 15th July 2024
+## Beta Release Soon™
 
 <br/>
 
-<h2>PROGRESS: 93% (As of 06th July 2024)</h2>
+---
+
+<h2>PROGRESS: 98% (As of 03rd November 2024)</h2>
+
+### ```Currently working on UI redesign and CLI support.``` 
+### ```Join the Discord if you would like to help, or if you have any questions.```
+
+---
 
 <br/>
 
@@ -38,6 +45,7 @@
 - [X] Create Start Menu Shortcuts for Apps (ICONS MUST BE MANUALLY SET)
 - [X] Move Google Play Games On PC installation to custom location/non-system drive/custom drive
 - [X] Modify Emulator Boot Args
+- [X] Documentations
 
 </h3>
 
@@ -46,7 +54,6 @@
 <h3>
 
 - [ ] GUI and CLI Wrapper
-- [ ] Documentations and installation process
 
 <h3/>
    
